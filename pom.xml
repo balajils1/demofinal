@@ -1,0 +1,5 @@
+<dependency>
+   <groupId>aatree</groupId>
+   <artifactId>aaworker</artifactId>
+   <version>0.3.1</version>
+</dependency>
